@@ -2,7 +2,7 @@
 
 A production-grade data engineering pipeline built on **Databricks** using **PySpark** and **Delta Lake**, implementing a **Medallion Architecture (Bronze → Silver → Gold)** for an FMCG business with a parent company and a child company (SportsBar).
 
-![Project Architecture](resources/project_architecture.png)
+![Project Architecture](project_architecture.png)
 
 ---
 
