@@ -1,4 +1,4 @@
-# FMCG Data Engineering Pipeline — Atlikon
+# Data Engineering Pipeline — Atlikon 
 
 A production-grade data engineering pipeline built on **Databricks** using **PySpark** and **Delta Lake**, implementing a **Medallion Architecture (Bronze → Silver → Gold)** for an FMCG business with a parent company and a child company (SportsBar).
 
